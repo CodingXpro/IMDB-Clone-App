@@ -1,6 +1,6 @@
 # IMDB
 
-### View this web page at : https://abhishek2396.github.io/imdb/
+### View this web page at : https://codingxpro.github.io/IMDB-Clone-App/
 
 ## Features
 
